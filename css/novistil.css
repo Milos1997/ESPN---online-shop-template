@@ -1,0 +1,56 @@
+.list-unstyled li a
+{
+	text-decoration: none;
+	color: white;
+	transition: color 0.4s ease-in
+	padding: 0.2rem;
+}
+
+.list-unstyled li a:hover
+{
+	color: gray;
+}
+
+.list-inline li a
+{
+	text-decoration: none;
+	color: white;
+	transition: color 0.4s ease-in
+	padding: 0.2rem;
+}
+
+.list-inline li a:hover
+{
+	color: gray;
+}
+
+a:hover 
+{
+    color: #818182;
+    text-decoration: none;
+}
+
+a
+{
+	color: black;
+}
+
+.knt li a
+{
+	color: black;
+}
+
+.jumbotron 
+{
+    background-image: url("../img/bu.jpg");
+}
+
+.slika
+{
+	width: 100%;
+	height: 350px;
+	background-image: url("../img/ptk.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
