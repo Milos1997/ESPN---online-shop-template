@@ -1,4 +1,3 @@
-# espt
+# ESPN - online shop template
 
-This is Website for online shoping.
-This project is worked in college (	Human-Computer Interaction)
+This is Website for online shoping that is made in college (Human-Computer Interaction).
